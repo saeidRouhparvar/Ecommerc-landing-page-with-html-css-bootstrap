@@ -1,0 +1,41 @@
+body {
+  width: 1440px;
+  margin: 0;
+  padding: 0;
+  font-size: 14px !important;
+  color: #555555 !important;
+}
+a {
+  text-decoration: none !important;
+  color: #555555 !important;
+}
+ul {
+  list-style-type: none;
+}
+.bg-green {
+  background-color: #7ac751 !important;
+}
+.green {
+  color: #7ac751 !important;
+}
+.light-dark {
+  color: #555555;
+}
+.bg-gray100 {
+  background-color: #f7f8fa;
+}
+.sideWidth {
+  width: 233px;
+  height: 450px;
+}
+.banner-background {
+  background: linear-gradient(
+    103.4deg,
+    rgba(241, 250, 255, 0.88) 0.89%,
+    #f1faff 101.61%
+  );
+  backdrop-filter: blur(77.5px);
+  border-radius: 1px;
+  height: 450px;
+width: 100%;
+}
